@@ -7,3 +7,4 @@ RUN yum clean all
 RUN yum -y update
 RUN yum -y install openssh-server
 CMD /bin/bash
+# here we go
